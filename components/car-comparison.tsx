@@ -40,7 +40,7 @@ const carsData: CarData[] = [
     model: "Corolla HEV",
     year: 2024,
     price: 108500000,
-    image: "/toyota-camry-2024-sedan.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=toyota&modelFamily=corolla&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "sedan",
     specs: {
       engine: "1.8L Híbrido",
@@ -64,7 +64,7 @@ const carsData: CarData[] = [
     model: "2 Sedán Touring",
     year: 2024,
     price: 83600000,
-    image: "/honda-accord-2024-sedan.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=mazda&modelFamily=2&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "sedan",
     specs: {
       engine: "1.5L 4-Cylinder",
@@ -88,7 +88,7 @@ const carsData: CarData[] = [
     model: "K3 Sedán",
     year: 2024,
     price: 79990000,
-    image: "/nissan-altima-2024-sedan.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=k3&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "sedan",
     specs: {
       engine: "1.6L 4-Cylinder",
@@ -112,7 +112,7 @@ const carsData: CarData[] = [
     model: "City Sedán EXL",
     year: 2024,
     price: 103900000,
-    image: "/toyota-camry-2024-sedan.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=honda&modelFamily=city&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "sedan",
     specs: {
       engine: "1.5L 4-Cylinder",
@@ -136,7 +136,7 @@ const carsData: CarData[] = [
     model: "Onix Sedán",
     year: 2024,
     price: 75790000,
-    image: "/nissan-altima-2024-sedan.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=onix&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "sedan",
     specs: {
       engine: "1.0L Turbo",
@@ -160,7 +160,7 @@ const carsData: CarData[] = [
     model: "K4 GT Line",
     year: 2024,
     price: 136990000,
-    image: "/honda-accord-2024-sedan.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=k4&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "sedan",
     specs: {
       engine: "1.6L Turbo",
@@ -185,7 +185,7 @@ const carsData: CarData[] = [
     model: "Corolla Cross HEV",
     year: 2024,
     price: 135900000,
-    image: "/toyota-rav4-2024-suv-silver.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=toyota&modelFamily=corolla%20cross&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.8L Híbrido",
@@ -209,7 +209,7 @@ const carsData: CarData[] = [
     model: "Fortuner GR-S",
     year: 2024,
     price: 322500000,
-    image: "/toyota-rav4-2024-suv-silver.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=toyota&modelFamily=fortuner&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "2.8L Turbo Diesel",
@@ -233,7 +233,7 @@ const carsData: CarData[] = [
     model: "CR-V",
     year: 2024,
     price: 219900000,
-    image: "/honda-cr-v-2024-suv-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=honda&modelFamily=cr-v&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.5L Turbo",
@@ -257,7 +257,7 @@ const carsData: CarData[] = [
     model: "CX-5 Touring",
     year: 2024,
     price: 149810000,
-    image: "/mazda-cx-5-2024-suv-red.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=mazda&modelFamily=cx-5&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "2.0L 4-Cylinder",
@@ -281,7 +281,7 @@ const carsData: CarData[] = [
     model: "CX-30 Touring",
     year: 2024,
     price: 117550000,
-    image: "/mazda-cx-5-2024-suv-red.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=mazda&modelFamily=cx-30&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "2.0L 4-Cylinder",
@@ -305,7 +305,7 @@ const carsData: CarData[] = [
     model: "Seltos",
     year: 2024,
     price: 117990000,
-    image: "/toyota-rav4-2024-suv-silver.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=seltos&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.6L 4-Cylinder",
@@ -329,7 +329,7 @@ const carsData: CarData[] = [
     model: "Sportage",
     year: 2026,
     price: 131990000,
-    image: "/honda-cr-v-2024-suv-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=sportage&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "2.0L 4-Cylinder",
@@ -353,7 +353,7 @@ const carsData: CarData[] = [
     model: "Creta",
     year: 2024,
     price: 102990000,
-    image: "/toyota-rav4-2024-suv-silver.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=hyundai&modelFamily=creta&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.5L 4-Cylinder",
@@ -377,7 +377,7 @@ const carsData: CarData[] = [
     model: "Venue Limited",
     year: 2025,
     price: 94990000,
-    image: "/honda-cr-v-2024-suv-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=hyundai&modelFamily=venue&modelYear=2025&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.6L 4-Cylinder",
@@ -401,7 +401,7 @@ const carsData: CarData[] = [
     model: "Escape EcoBoost",
     year: 2024,
     price: 129990000,
-    image: "/toyota-rav4-2024-suv-silver.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=ford&modelFamily=escape&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.5L Turbo",
@@ -425,7 +425,7 @@ const carsData: CarData[] = [
     model: "Explorer Active",
     year: 2024,
     price: 229990000,
-    image: "/honda-cr-v-2024-suv-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=ford&modelFamily=explorer&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "2.3L Turbo",
@@ -449,7 +449,7 @@ const carsData: CarData[] = [
     model: "Tracker RS",
     year: 2024,
     price: 120990000,
-    image: "/mazda-cx-5-2024-suv-red.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=tracker&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "1.2L Turbo",
@@ -473,7 +473,7 @@ const carsData: CarData[] = [
     model: "Blazer",
     year: 2024,
     price: 210120000,
-    image: "/honda-cr-v-2024-suv-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=blazer&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "2.0L Turbo",
@@ -497,7 +497,7 @@ const carsData: CarData[] = [
     model: "Land Cruiser 300",
     year: 2024,
     price: 613500000,
-    image: "/toyota-rav4-2024-suv-silver.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=toyota&modelFamily=land%20cruiser&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "suv",
     specs: {
       engine: "3.5L V6 Twin-Turbo",
@@ -522,7 +522,7 @@ const carsData: CarData[] = [
     model: "Picanto GT Line",
     year: 2024,
     price: 77990000,
-    image: "/volkswagen-golf-2024-hatchback-blue.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=picanto&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "hatchback",
     specs: {
       engine: "1.2L 4-Cylinder",
@@ -546,7 +546,7 @@ const carsData: CarData[] = [
     model: "HB20 Hatchback",
     year: 2024,
     price: 69990000,
-    image: "/honda-civic-hatchback-2024-black.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=hyundai&modelFamily=hb20&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "hatchback",
     specs: {
       engine: "1.0L Turbo",
@@ -570,7 +570,7 @@ const carsData: CarData[] = [
     model: "Onix Hatchback",
     year: 2024,
     price: 90990000,
-    image: "/volkswagen-golf-2024-hatchback-blue.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=onix&modelYear=2024&angle=23&paintId=pspc0007&width=800",
     category: "hatchback",
     specs: {
       engine: "1.0L Turbo",
@@ -594,7 +594,7 @@ const carsData: CarData[] = [
     model: "City Hatchback EXL",
     year: 2024,
     price: 96990000,
-    image: "/honda-civic-hatchback-2024-black.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=honda&modelFamily=city%20hatchback&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "hatchback",
     specs: {
       engine: "1.5L 4-Cylinder",
@@ -618,7 +618,7 @@ const carsData: CarData[] = [
     model: "Stonic",
     year: 2024,
     price: 83990000,
-    image: "/volkswagen-golf-2024-hatchback-blue.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=stonic&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "hatchback",
     specs: {
       engine: "1.4L 4-Cylinder",
@@ -643,7 +643,7 @@ const carsData: CarData[] = [
     model: "Hilux GR-S",
     year: 2024,
     price: 296900000,
-    image: "/ford-f-150-2024-pickup-truck-gray.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=toyota&modelFamily=hilux&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "pickup",
     specs: {
       engine: "2.8L Turbo Diesel",
@@ -667,7 +667,7 @@ const carsData: CarData[] = [
     model: "Hilux Básica",
     year: 2024,
     price: 175900000,
-    image: "/chevrolet-silverado-2024-pickup-truck-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=toyota&modelFamily=hilux&modelYear=2024&angle=33&paintId=pspc0007&width=800",
     category: "pickup",
     specs: {
       engine: "2.4L Diesel",
@@ -691,7 +691,7 @@ const carsData: CarData[] = [
     model: "Ranger XL 4x4",
     year: 2024,
     price: 195990000,
-    image: "/ford-f-150-2024-pickup-truck-gray.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=ford&modelFamily=ranger&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "pickup",
     specs: {
       engine: "2.0L Turbo Diesel",
@@ -715,7 +715,7 @@ const carsData: CarData[] = [
     model: "Colorado Z71",
     year: 2024,
     price: 220000000,
-    image: "/chevrolet-silverado-2024-pickup-truck-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=colorado&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "pickup",
     specs: {
       engine: "2.8L Turbo Diesel",
@@ -739,7 +739,7 @@ const carsData: CarData[] = [
     model: "Silverado",
     year: 2024,
     price: 270990000,
-    image: "/chevrolet-silverado-2024-pickup-truck-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=silverado&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "pickup",
     specs: {
       engine: "6.2L V8",
@@ -764,7 +764,7 @@ const carsData: CarData[] = [
     model: "EV3 Light",
     year: 2024,
     price: 164990000,
-    image: "/tesla-model-3-2024-electric-car-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=ev3&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "electric",
     specs: {
       engine: "Motor Eléctrico",
@@ -788,7 +788,7 @@ const carsData: CarData[] = [
     model: "EV5",
     year: 2024,
     price: 179990000,
-    image: "/nissan-leaf-2024-electric-car-blue.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=ev5&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "electric",
     specs: {
       engine: "Motor Eléctrico",
@@ -812,7 +812,7 @@ const carsData: CarData[] = [
     model: "EV6",
     year: 2024,
     price: 251990000,
-    image: "/tesla-model-3-2024-electric-car-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=ev6&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "electric",
     specs: {
       engine: "Motor Eléctrico Dual",
@@ -836,7 +836,7 @@ const carsData: CarData[] = [
     model: "EV9",
     year: 2024,
     price: 399990000,
-    image: "/nissan-leaf-2024-electric-car-blue.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=kia&modelFamily=ev9&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "electric",
     specs: {
       engine: "Motor Eléctrico Dual",
@@ -860,7 +860,7 @@ const carsData: CarData[] = [
     model: "Kona Eléctrica",
     year: 2024,
     price: 139990000,
-    image: "/tesla-model-3-2024-electric-car-white.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=hyundai&modelFamily=kona&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "electric",
     specs: {
       engine: "Motor Eléctrico",
@@ -884,7 +884,7 @@ const carsData: CarData[] = [
     model: "Bolt EUV",
     year: 2024,
     price: 159990000,
-    image: "/nissan-leaf-2024-electric-car-blue.jpg",
+    image: "https://cdn.imagin.studio/getImage?customer=img&make=chevrolet&modelFamily=bolt%20euv&modelYear=2024&angle=23&paintId=pspc0001&width=800",
     category: "electric",
     specs: {
       engine: "Motor Eléctrico",
